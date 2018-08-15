@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjay.chandarana\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="F:\Android\RestApiDemo-master\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_3ed9a397936b426f18e274092062c6fae492a194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjay.chandarana\.android\build-cache\b615795109565a0896f1370e5afb8224c8934705\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="F:\Android\RestApiDemo-master\app\build\intermediates\pre-dexed\debug\classes_774b31466b1a78dc64eca58e31565178b6db90a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjay.chandarana\.android\build-cache\a10833643dce668305352aef4889315ede293da9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="F:\Android\RestApiDemo-master\app\build\intermediates\pre-dexed\debug\classes_4057b881af9a1838ee7a7e5d75ac201311e4e696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjay.chandarana\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\Android\RestApiDemo-master\app\build\intermediates\pre-dexed\debug\gson-2.3.1_8bbc737faade24f89a87c40742bd1a77092d2363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjay.chandarana\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\Android\RestApiDemo-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_458410db95e64d04a25e76918f218b74adfb3ba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjay.chandarana\.android\build-cache\eaf2ec5057880451d395e3759264da672acc071d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="F:\Android\RestApiDemo-master\app\build\intermediates\pre-dexed\debug\classes_536c2358be4f725d721e8f4cce37300281f36260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjay.chandarana\.android\build-cache\69d9d1c67f9942f6c044d75bc86fd306a03fe36c\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="F:\Android\RestApiDemo-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_871baf4908c7ef9aa04d06868e0efae88a18ab8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjay.chandarana\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="F:\Android\RestApiDemo-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_70d16b561d9cbd4a745aecda353c69e67b65e92d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjay.chandarana\.android\build-cache\69d9d1c67f9942f6c044d75bc86fd306a03fe36c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="F:\Android\RestApiDemo-master\app\build\intermediates\pre-dexed\debug\classes_7a47e3d1e7c387308dea372de32e6530386dcff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjay.chandarana\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="F:\Android\RestApiDemo-master\app\build\intermediates\pre-dexed\debug\okio-1.3.0_7f59d35f64544fb1f600cc21fd280cb9bed8545b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sanjay.chandarana\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="F:\Android\RestApiDemo-master\app\build\intermediates\pre-dexed\debug\okhttp-2.3.0_4b57160049823099769d6d8b7b423555ed5dc392.jar" />
+    </item>
+
+</items>
